@@ -1,4 +1,4 @@
-# Focus Map Tool
+# Focus Region Tool
 
 This tool was created by Leon Sering during the research project on "focus regions" at the university of Würzburg, supervised by Jan-Henrik Haunert.
 
@@ -40,7 +40,7 @@ The result is a visualization of the whole route within a road map that still lo
 
 #### Create JAR-file
 
-1. If you have a different CPLEX version than 22.1.1 then you have to copy the ```cplex.jar``` from ```/home/<your_username>/opt/CPLEX/cplex/lib/``` to ```focusmap/lib/``` and override the existing file.
+1. If you have a different CPLEX version than 22.1.1 then you have to copy the ```cplex.jar``` from ```/home/<your_username>/opt/CPLEX/cplex/lib/``` to ```focus_region/lib/``` and override the existing file.
 
 2. Create the JAR-file with the ```build.sh```-bash-script:
    
@@ -64,7 +64,7 @@ The result is a visualization of the whole route within a road map that still lo
 
 5. Choose an area size. Everything outside of the area is fixed. So distortions only happen in the area without the focus region.
 
-6. Click on "Compute" to start the "focus map"-computation with CPLEX.
+6. Click on "Compute" to start the "focus region"-computation with CPLEX.
 
 #### More options
 
