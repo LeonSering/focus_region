@@ -1,0 +1,80 @@
+10
+
+dir
+65
+https://lamut.informatik.uni-wuerzburg.de/svn/focusmaps/lib
+https://lamut.informatik.uni-wuerzburg.de/svn/focusmaps
+
+
+
+2011-03-22T10:24:38.055826Z
+32
+haunert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+92383f0d-c5d7-45cb-be40-0532bea4971f
+
+jgrapht-0.8.1
+dir
+
+.directory
+file
+
+
+
+
+2011-03-21T15:09:34.880174Z
+d9d16ba7ebc44d8c7e896c94646b2ea0
+2011-03-22T01:30:20.894897Z
+30
+leon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+118
+
+slf4j-1.6.0
+dir
+
+jts-1.8.0
+dir
+
+poly2tri-core-0.1.0
+dir
+
+jump-1.2
+dir
+
+cplex
+dir
+
