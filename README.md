@@ -4,7 +4,7 @@ This tool was created by Leon Sering during the research project on "focus regio
 
 The result are published in Transactions on Visualization and Computer Graphics and can be found [here](https://doi.org/10.1109/TVCG.2011.191).
 
-The tool allows the user to choose a focus region within a larger area on a road network, together with a zoom factor.  By solving a convex quadratic program a new visualization of the road map is created, where all elements in the focus region are scaled by the zoom factor, all elements outside the area untouched and the elements within the area but outside the focus region are replaced such that the distortions are minimized.
+The tool allows the user to choose a focus region within a larger area on a road map, together with a zoom factor. By solving a convex quadratic program a new visualization of the road map is created, where all elements in the focus region are scaled by the zoom factor, all elements outside the area untouched and the elements within the area but outside the focus region are replaced such that the distortions are minimized.
 
 The result is a new map, where the focus region is strongly enlarged, but still the map looks topologically very similar to the original map.
 
