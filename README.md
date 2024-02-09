@@ -47,6 +47,7 @@ The result is a visualization of the whole route within a road map that still lo
    ```bash
    ./build.sh
    ```
+   (tested with javac 17.0.9)
 
 # Usage
 
@@ -55,6 +56,7 @@ The result is a visualization of the whole route within a road map that still lo
    ```bash
    ./run.sh
    ```
+   (tested with openjdk 17.0.9)
 
 2. Open an SHP-file (you can find some in GIS_data).
 
